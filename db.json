@@ -1,5 +1,6 @@
-[  
-{
+{  
+"products": [
+  {
     "id": 1,
     "name": "Coffee",
     "username": "Bret",
@@ -30,3 +31,4 @@
     "email": "Lucio_Hettinger@annie.ca"
   }
 ]
+}
