@@ -33,33 +33,38 @@
   {
     "id": 6,
     "name": "Faks",
-    "category": "Higijena",
+    "category": "higijena",
     "price": "14"
-  },{
+  },
+  {
     "id": 7,
     "name": "Poly salama",
     "category": "hrana",
     "price": "5"
-  },{
+  },
+  {
     "id": 8,
     "name": "Chips",
     "category": "hrana",
     "price": "3"
-  },{
+  },
+  {
     "id": 9,
     "name": "Red Bull",
     "category": "pice",
     "price": "3.5"
-  },{
+  },
+  {
     "id": 10,
     "name": "Pavlaka",
     "category": "hrana",
     "price": "2.5"
-  },{
+  },
+  {
     "id": 11,
     "name": "Jogurt",
     "category": "pice",
     "price": "2.2"
-  },
+  }
 ]
 }
