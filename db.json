@@ -4,31 +4,31 @@
     "id": 1,
     "name": "Donkafe",
     "category": "Kafa",
-    "price": 10
+    "price": "10"
   },
   {
     "id": 2,
     "name": "Banane",
     "category": "Voce",
-    "price": 2
+    "price": "4"
   },
   {
     "id": 3,
     "name": "Pljeskavica",
     "category": "meso",
-    "price": 11
+    "price": "4"
    },
   {
     "id": 4,
     "name": "Coca cola",
     "category": "pice",
-    "price": 3
+    "price": "3"
   },
   {
     "id": 5,
     "name": "Head and shoulders",
     "category": "higijena",
-    "price": 14
+    "price": "14"
   }
 ]
 }
