@@ -52,19 +52,19 @@
     "id": 9,
     "name": "Red Bull",
     "category": "pice",
-    "price": "3.5"
+    "price": "35"
   },
   {
     "id": 10,
     "name": "Pavlaka",
     "category": "hrana",
-    "price": "2.5"
+    "price": "25"
   },
   {
     "id": 11,
     "name": "Jogurt",
     "category": "pice",
-    "price": "2.2"
+    "price": "22"
   }
 ]
 }
