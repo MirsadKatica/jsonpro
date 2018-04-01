@@ -4,7 +4,7 @@
     "id": 1,
     "name": "Donkafe",
     "category": "Kafa",
-    "price": 15
+    "price": "15"
   },
   {
     "id": 2,
@@ -52,7 +52,7 @@
     "id": 9,
     "name": "Red Bull",
     "category": "pice",
-    "price": "35"
+    "price": "3.5"
   },
   {
     "id": 10,
@@ -64,7 +64,7 @@
     "id": 11,
     "name": "Jogurt",
     "category": "pice",
-    "price": 2.2
+    "price": "2.2"
   }
 ]
 }
